@@ -1,5 +1,5 @@
 {
-    "name": "guruai",
+    "name": "asadhere",
     "version": "2.1.0",
     "description": "Advanced WhatsApp Ai",
     "main": "index.js",
@@ -28,7 +28,7 @@
         "MD",
         "baileys-md"
     ],
-    "homepage": "https://github.com/Guru322/GURU-BOT",
+    "homepage": "",
     "author": {
         "name": "GURU"
     },
